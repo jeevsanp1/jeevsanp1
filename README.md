@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeevsanp1
-- 👀 I’m interested in data science and statistic
-- 🌱 I’m currently working on building statistical models from the ground up
+- 👀 I’m interested in electrical engineering, and specifically creating the hardware of the future
+- 🌱 I’m currently working on creating a new rewards system.
 - 📫 Reach me at sanjeevkumarvijayakumar@gmail.com
 
 <!---
